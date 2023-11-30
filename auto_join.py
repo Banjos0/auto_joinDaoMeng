@@ -6,8 +6,8 @@ import threading
 import time
 
 
-user = input('请输入账号')
-passwd = input('请输入密码')
+user = input('15970757208')
+passwd = input('1q2w3e4rA')
 aids = {}
 time_aid = {}
 
